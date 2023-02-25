@@ -1,4 +1,4 @@
-![](https://github-readme-streak-stats.herokuapp.com/?user=memte&theme=violet-dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=memte&theme=violet-punch&hide_border=false)<br/>
 ---
 ![](https://komarev.com/ghpvc/?username=memte&color=c50808)
 ---
