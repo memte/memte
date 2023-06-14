@@ -2,4 +2,4 @@
 ---
 ![](https://komarev.com/ghpvc/?username=memte&color=c50808)
 ---
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/690639157013381220)](https://discord.com/users/690639157013381220)
+[![Discord Presence](https://lanyard.cnrad.dev/api/690634258691391589)](https://discord.com/users/690634258691391589)
