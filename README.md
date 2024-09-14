@@ -5,6 +5,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=memte&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="memte's GitHub stats" /> </p>
 
 ### Connect with Me on Discord
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/690634258691391589)](https://discord.com/users/690634258691391589)
+<p align="center"> <a href="https://discord.com/users/690634258691391589"><img src="https://lanyard.cnrad.dev/api/690634258691391589?bg=23272a" alt="Discord Presence" /></a> </p>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=memte&color=c50808)
