@@ -3,9 +3,6 @@
 ### My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memte&count_private=true&show_icons=true&include_all_commits=true)
 
-### My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=memte&theme=algolia&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Connect with Me on Discord
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/690634258691391589)](https://discord.com/users/690634258691391589)
 
