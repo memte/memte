@@ -2,7 +2,7 @@
 
 
 ### My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memte&count_private=true&show_icons=true&include_all_commits=true)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=memte&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="memte's GitHub stats" /> </p>
 
 ### Connect with Me on Discord
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/690634258691391589)](https://discord.com/users/690634258691391589)
