@@ -7,4 +7,5 @@
 ### Connect with Me on Discord
 <p align="center"> <a href="https://discord.com/users/690634258691391589"><img src="https://lanyard.cnrad.dev/api/690634258691391589?bg=23272a" alt="Discord Presence" /></a> </p>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=memte&color=c50808)
+### Visitor Count
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=memte&style=for-the-badge&color=blue" alt="Visitor Count" /> </p>
