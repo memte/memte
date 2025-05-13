@@ -6,4 +6,4 @@
 
 ### My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=memte&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="memte's GitHub stats" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=memte&style=for-the-badge&color=blue" alt="Visitor Count" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=memte&style=for-the-badge&color=yellow" alt="Visitor Count" /> </p>
