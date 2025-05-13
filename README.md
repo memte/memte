@@ -6,7 +6,11 @@
 
 ### Contact with Me on Discord
 <p align="center"> <a href="https://discord.com/users/690634258691391589"><img src="https://lanyard.cnrad.dev/api/690634258691391589?bg=23272a" alt="Discord Presence" /></a> </p>
-<iframe src="https://discord.com/widget?id=1111306185832935474&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<p align="center">
+  <a href="https://discord.gg/YOUR_INVITE_CODE">
+    <img src="https://img.shields.io/badge/Join%20My%20Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord Server"/>
+  </a>
+</p>
 
 ### Visitor Count
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=memte&style=for-the-badge&color=blue" alt="Visitor Count" /> </p>
